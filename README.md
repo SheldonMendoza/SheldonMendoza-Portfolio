@@ -2,6 +2,8 @@
 
 **AI Media Creator | Film Producer | Technology Developer | Digital Entrepreneur**
 
+NEXTV / NEXTV AI CREATIONS is my AI media and commercial production studio.
+
 I do not simply use AI tools. I conceptualize, develop, build, and launch digital products, applications, websites, entertainment platforms, and AI-powered creative solutions.
 
 - **Profile:** https://github.com/SheldonMendoza
@@ -17,6 +19,12 @@ Creative career since 1991. Background in commercial art, sign painting, portrai
 - 100+ songs recorded
 
 Roles: Film Director and Producer, Music Producer and Recording Artist, Songwriter, Graphic Artist, AI Media Creator, Television Producer, Music Business Consultant, Digital Content Creator.
+
+## Music
+
+I am a Trinidadian reggae and soca recording artist and music video director.
+
+My lovers reggae single "I Want You" is out now on YouTube and streams everywhere from December 1, 2026 via Ditto Music. Pre-save: https://ditto.fm/i-want-you-sheldon-mendoza
 
 ## Featured projects
 
@@ -57,3 +65,21 @@ Roles: Film Director and Producer, Music Producer and Recording Artist, Songwrit
 This repository contains portfolio descriptions, documentation, and approved showcase material only.
 
 No proprietary source code, API keys, passwords, credentials, environment variables, database information, or confidential client information is published here. Existing commercial repositories remain private.
+
+## Connect
+
+YouTube: https://www.youtube.com/sheldonmendoza · Instagram: https://www.instagram.com/sheldon_mendoza · TikTok: https://www.tiktok.com/@1Sheldonmendoza · Facebook: https://www.facebook.com/sheldonmendoza
+
+## FAQ
+
+**Who is Sheldon Mendoza?**
+A Trinidadian reggae and soca recording artist, music producer, and music video director, and the founder of NEXTV and NEXTV AI CREATIONS.
+
+**What is NEXTV?**
+NEXTV is Sheldon Mendoza's media brand, and NEXTV AI CREATIONS is its AI video and commercial production arm.
+
+**What is StreamHomeTV?**
+A Caribbean streaming platform from Sheldon Mendoza and NEXTV, with the 24-hour HOME TV live channel, Caribbean radio, originals, and a store.
+
+**Where can I hear his music?**
+His lovers reggae single "I Want You" is out now on YouTube and streams everywhere from December 1, 2026 via Ditto Music. Pre-save: https://ditto.fm/i-want-you-sheldon-mendoza
