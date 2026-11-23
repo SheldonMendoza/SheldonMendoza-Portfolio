@@ -20,6 +20,8 @@ Creative career since 1991. Background in commercial art, sign painting, portrai
 
 Roles: Film Director and Producer, Music Producer and Recording Artist, Songwriter, Graphic Artist, AI Media Creator, Television Producer, Music Business Consultant, Digital Content Creator.
 
+His most notable performance was at the All Africa Festival in Dubai in 2022. He has shot music videos for his own songs in Dubai, Pennsylvania, New Orleans and New York City, including "Living My Life" (2014) and "Dream To Reality" (2022), both shot in Dubai.
+
 ## Music
 
 I am a Trinidadian reggae and soca recording artist and music video director.
